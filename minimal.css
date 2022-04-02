@@ -9,7 +9,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
     --main: black;
     --accent: #777;
     --text: white;
-    --typography: Helvetica, 'Roboto, sans-serif';
+    --typography: Helvetica, 'Roboto', 'sans-serif';
 }
 
 /* Further Defaulting */
